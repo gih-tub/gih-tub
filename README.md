@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Please Note:
+- This is not my original github account.
+- This Github account serves as a porfolio account to host various projects
 <!--
 **gih-tub/gih-tub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
